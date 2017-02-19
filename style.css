@@ -1,0 +1,62 @@
+body{
+	margin: 0;
+}
+.nav-bar{
+	background-color: #242424;
+	padding: 5px ;
+	margin: 0% 5% 0% 5%;
+}
+
+.wrapper{
+	background-color: lightgray;
+	
+}
+
+.project-name{
+	display: inline-block;
+	color: #A2A2A2;
+	font-size: 20px;
+	margin: 1px 5px;
+	padding: 8px 4px;
+}
+.navigation{
+	display: inline-block;
+	text-align: left;
+	padding: 0px;
+	width: 70%;
+	margin: 1px;
+}
+
+.top-content{
+	margin: 5% 25%;
+	padding-bottom: 5%;
+	text-align: center;
+	color: white;
+}
+
+.browse-botton{
+	background-color: blue;
+	border-radius: 5px;
+	padding: 8px 15px;
+	color: white;
+	text-decoration: none;
+	text-shadow: 1px 1px 2px black;
+
+}
+
+.navigation li{
+	display: inline-block;
+	padding: 1% 3%;
+	
+}
+
+.navigation li a{
+	text-decoration: none;
+	color: #A2A2A2;
+
+}
+
+.navigation li:hover{
+	color: white;
+	background-color: black;
+}
